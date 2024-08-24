@@ -1,1 +1,1 @@
-#se-day3-assignment-Boak123
+echo "se-day3-assignment-Boak123"
